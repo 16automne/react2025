@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react2025.git/static/css/main.b8050919.css",
+    "main.js": "/react2025.git/static/js/main.418d88c7.js",
+    "static/media/banner.jpg": "/react2025.git/static/media/banner.68c2fba32c592f76a9ed.jpg",
+    "index.html": "/react2025.git/index.html",
+    "main.b8050919.css.map": "/react2025.git/static/css/main.b8050919.css.map",
+    "main.418d88c7.js.map": "/react2025.git/static/js/main.418d88c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8050919.css",
+    "static/js/main.418d88c7.js"
+  ]
+}
