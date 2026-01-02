@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"kdt"},
+{"type":"table","name":"fruits","database":"kdt","data":
+[
+{"num":"1","name":"바나나","price":"5000","color":"노랑","country":"필리핀"},
+{"num":"2","name":"멜론","price":"6000","color":"초록","country":"말레이시아"},
+{"num":"3","name":"사과","price":"1000","color":"빨강","country":"대구"},
+{"num":"4","name":"","price":"0","color":"빨강","country":"대구"},
+{"num":"5","name":"포도","price":"3000","color":"보라","country":"필리핀"},
+{"num":"6","name":"","price":"0","color":"","country":""},
+{"num":"7","name":"","price":"0","color":"","country":""},
+{"num":"8","name":"","price":"0","color":"","country":""}
+]
+}
+]

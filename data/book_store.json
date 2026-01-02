@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"kdt"},
+{"type":"table","name":"book_store","database":"kdt","data":
+[
+{"code":"5","name":"리브로","area1":"광주","area2":"남구","area3":"","book_cnt":"24000","owner_nm":"박천민","tel_num":"062-5234-5678"},
+{"code":"7","name":"11번가","area1":"부산","area2":"수영","area3":"광안","book_cnt":"10000","owner_nm":"최삽삽","tel_num":"051-7234-5678"}
+]
+}
+]
