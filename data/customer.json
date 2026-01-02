@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"kdt"},
+{"type":"table","name":"customer","database":"kdt","data":
+[
+{"c_name":"레스토랑가야","c_address":"강남구 역삼동 3번지","c_tel":"02-12588-9956"},
+{"c_name":"카페신라","c_address":"강남구 역삼4동 1번지","c_tel":"02-1258-1313"},
+{"c_name":"서교동식당","c_address":"강남구 역삼5동 6번지","c_tel":"02-1258-1315"},
+{"c_name":"부바레스토랑","c_address":"송파구 문정동 8번지","c_tel":"02-1258-6666"}
+]
+}
+]
